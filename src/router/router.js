@@ -1,8 +1,10 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import App from "../components/App";
-import Posts from "../components/Posts";
+
 import Header from "../header";
+
+import {App,Posts} from './lazy'
+
 
 class ReactRouter extends React.Component {
   render() {
