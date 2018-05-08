@@ -1,4 +1,4 @@
-# React With Lazy laoding
+# React With Lazy loading
 
 ![lazy loading](https://raw.githubusercontent.com/saigowthamr/Lazy-Loading-React/master/lazy2.gif)
 
