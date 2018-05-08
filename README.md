@@ -1,15 +1,11 @@
-# React Router Dom v4.2.2 boiler plate
+# React With Lazy laoding
 
-## Active link styles are also added
-easy to use for your next project
+![lazy loading](https://raw.githubusercontent.com/saigowthamr/Lazy-Loading-React/master/lazy2.gif)
 
+```
+npm  i // to install dependencies
+```
 
-## Header is also included
-and splitted in separate files
-
-
-
-## npm install
- to install dependencies
-
-
+```
+npm start // to start dev server
+```
